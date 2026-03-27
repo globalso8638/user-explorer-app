@@ -3,6 +3,12 @@
 A dynamic web application that fetches and displays user data from an external API.
 It allows real-time searching and filtering by name and email.
 
+
+## Live Demo
+
+Access the application here:  
+https://nathan-ribeiro-de-souza.github.io/user-explorer-app/
+
 ---
 
 ##  Features
